@@ -1,0 +1,52 @@
+[
+  {
+    "prompt": "What's the best way to learn machine learning?",
+    "chosen": "Great question! I'd recommend starting with the fundamentals: linear algebra, calculus, and statistics. Then move to Python and libraries like scikit-learn. Start with simple projects and gradually work up to more complex ones. Online courses from Coursera, edX, or fast.ai are excellent resources. What's your current background in programming and math?",
+    "rejected": "Just take a course online."
+  },
+  {
+    "prompt": "I'm feeling overwhelmed with my workload.",
+    "chosen": "I understand that feeling of being overwhelmed - it's really common and completely valid. Let's break this down together. What's the most urgent task on your plate right now? Sometimes just identifying the next small step can help reduce that overwhelming feeling. Remember, it's okay to ask for help or to take things one step at a time.",
+    "rejected": "Just work harder."
+  },
+  {
+    "prompt": "Can you explain quantum computing in simple terms?",
+    "chosen": "Think of quantum computing like having a super-powered calculator that can explore many possibilities at once! While regular computers use bits (like light switches that are either on or off), quantum computers use qubits that can be in multiple states simultaneously. This lets them solve certain problems much faster, like finding the best route through a complex maze or simulating how molecules interact. It's still in early stages, but it's really exciting technology!",
+    "rejected": "It's complicated quantum physics stuff."
+  },
+  {
+    "prompt": "What should I do if my code isn't working?",
+    "chosen": "Don't worry, debugging is a normal part of programming! Let's tackle this step by step. First, what error message are you seeing? If there's no error but unexpected behavior, try adding some print statements to see what's happening at each step. You can also try breaking your code into smaller pieces and testing each part separately. What programming language are you using? I can help you with specific debugging strategies.",
+    "rejected": "Check your syntax."
+  },
+  {
+    "prompt": "I want to start a business but don't know where to begin.",
+    "chosen": "That's an exciting journey you're about to start! Let's begin with the basics. What problem are you passionate about solving? Start by researching your target market and understanding what people actually need. You don't need a perfect plan to begin - many successful businesses started with just an idea and a willingness to learn. What kind of business are you thinking about? I'd be happy to help you think through the next steps.",
+    "rejected": "Just do it."
+  },
+  {
+    "prompt": "How do I improve my writing skills?",
+    "chosen": "Writing is a skill that improves with practice! Start by reading widely - different styles and genres will expand your vocabulary and understanding of structure. Try writing regularly, even if it's just a few sentences each day. Don't worry about perfection at first; focus on getting your ideas down. Consider joining a writing group or taking a class for feedback. What type of writing interests you most?",
+    "rejected": "Read more books."
+  },
+  {
+    "prompt": "I'm nervous about my job interview tomorrow.",
+    "chosen": "It's completely normal to feel nervous before an interview! Preparation can help reduce anxiety. Review the job description and think about how your experience matches their needs. Practice common interview questions, but remember to be authentic. Get a good night's sleep and arrive early. Remember, interviews are also for you to learn about the company. What aspects of the role are you most excited about?",
+    "rejected": "Don't be nervous."
+  },
+  {
+    "prompt": "What's the difference between AI and machine learning?",
+    "chosen": "Great question! Think of AI as the broader field - it's about creating systems that can perform tasks that typically require human intelligence. Machine learning is a specific approach within AI where we teach computers to learn patterns from data rather than programming them with explicit rules. It's like the difference between teaching someone to recognize cats by showing them thousands of cat pictures (ML) versus giving them a detailed description of what a cat looks like (traditional programming).",
+    "rejected": "AI is broader than ML."
+  },
+  {
+    "prompt": "I'm having trouble making friends in a new city.",
+    "chosen": "Moving to a new place can be really challenging, and it's totally normal to feel lonely at first. Try joining groups or activities that match your interests - whether it's a sports team, book club, or volunteer organization. Apps like Meetup can help you find local events. Don't put too much pressure on yourself; building friendships takes time. What activities do you enjoy? That might be a good starting point for meeting people.",
+    "rejected": "Just go out more."
+  },
+  {
+    "prompt": "How do I stay motivated when working on long-term projects?",
+    "chosen": "Long-term projects can definitely be challenging to stay motivated on! Try breaking your project into smaller, manageable milestones so you can celebrate progress along the way. Set specific, achievable goals for each week or month. Find ways to make the work enjoyable - maybe listen to music, work in a nice environment, or collaborate with others. Remember why you started the project in the first place. What's the end goal that excites you?",
+    "rejected": "Just keep working."
+  }
+] 
